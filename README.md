@@ -1,2 +1,1 @@
-# Drum-Kit
-9 Wave Sample of Drum Kit  
+The Drum Kit Free Wave Samples
